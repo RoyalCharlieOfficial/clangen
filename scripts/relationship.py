@@ -168,8 +168,8 @@ ELDER_TO_OTHER = {
 LOVE = {
     "love_interest_only": ['Is developing a crush on (cat)', 'Is admiring (cat) from afar...', 'Is spending a lot of time with (cat)',
                             'Gave a pretty flower they found to (cat)', 'Laughs at bad jokes from (cat)', 
-                            'Enjoys the time with (cat) and feels secure', 'Make (cat) laugh again and again',
-                            'Ensnares (cat) with a charming smile', 'Go for a nice long walk with (cat)',
+                            'Enjoys the time with (cat) and feels secure', 'Made (cat) laugh again and again',
+                            'Ensnares (cat) with a charming smile', 'Goes for a nice long walk with (cat)',
                             'Wants to spend the entire day with (cat)'],
     "love_interest": [  'Can\'t seem to stop talking about (cat)', 'Would spend the entire day with (cat) if they could', 
                         'Keeps shyly glancing over at (cat) as the clan talks about kits', 
@@ -293,7 +293,7 @@ INCREASE_HIGH = {
                           'Laughs at bad jokes from (cat)', 'Wants to confess their love to (cat)',
                           'Is rolling around a little too playfully with (cat)...', 'Enjoys the time with (cat) and feels secure',
                           'Was caught enjoying a moonlit stroll with (cat) last night...', 'Wants to spend the entire day with (cat)',
-                          'Is wondering what it would be like to grow old with (cat)','Go for a nice long walk with (cat)'
+                          'Is wondering what it would be like to grow old with (cat)','Goes for a nice long walk with (cat)'
                           ],
         "like": ['Is telling a story to (cat)','Is talking with (cat)','Pretends to be a warrior with (cat)',
                 'Is sharing tongues with (cat)', 'Is playing tag with (cat)',
@@ -324,7 +324,7 @@ INCREASE_HIGH = {
         "romantic_love": ['Is spending a lot of time with (cat)', 'Gave a pretty flower they found to (cat)',
                           'Is rolling around a little too playfully with (cat)...', 'Ensnares (cat) with a charming smile',
                           'Was caught enjoying a moonlit stroll with (cat) last night...', 'Make (cat) laugh again and again',
-                          'Go for a nice long walk with (cat)', 'Wants to spend the entire day with (cat)', 'Charms (cat)'],
+                          'Goes for a nice long walk with (cat)', 'Wants to spend the entire day with (cat)', 'Charms (cat)'],
         "like": ['Is telling a story to (cat)','Is talking with (cat)','Is sharing tongue with (cat)',
                 'Is giving (cat) a badger ride on their back!', 'Is promising to take (cat) outside of camp if they behave',
                 'Is telling (cat) about a hunting technique',
