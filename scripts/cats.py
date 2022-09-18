@@ -1478,7 +1478,7 @@ class Cat(object):
                             'Is patching up a hole in the camp wall',
                             'Is helping to reinforce the walls of the elders\' den',
                             'Is going back to check out an old fox burrow they discovered yesterday, just to be safe',
-                            'Is going back to check out an old badger set they discovered yesterday, just to be safe'
+                            'Is going back to check out an old badger sett they discovered yesterday, just to be safe'
                         ])
                     elif cat.trait == 'childish':
                         thoughts.extend([
