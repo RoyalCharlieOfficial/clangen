@@ -1127,7 +1127,8 @@ class Events(object):
             cause_of_death = [
                 name + ' was murdered', name + ' died of greencough',
                 'A tree fell in camp and killed ' + name,
-                name + ' was found dead near a fox den'
+                name + ' was found dead near a fox den',
+                name + ' was bitten by a snake and died soon after'
             ]
             if cat.status == 'kitten':
                 cause_of_death.extend([
