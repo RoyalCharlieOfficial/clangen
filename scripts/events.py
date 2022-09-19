@@ -1206,7 +1206,8 @@ class Events(object):
                 if len(game.clan.all_clans) > 0:
                     cause_of_death.extend([
                         name + ' lost a live to greencough',
-                        'A tree fell in camp and ' + name + ' lost a life'
+                        'A tree fell in camp and ' + name + ' lost a life',
+                        name + ' was bitten by a snake and lost a life soon after'
                     ])
                     cause_of_death.extend([
                         name + ' was found dead near the ' +
